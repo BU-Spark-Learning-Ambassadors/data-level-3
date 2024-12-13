@@ -33,6 +33,14 @@ Summarize your findings in a concise pdf report:
 
 ---
 
+### Example
+
+See an example project [Example]([https://our-republic.vercel.app/](https://github.com/SeunnnA/DataPrepVisual-Level-3)) with the source code [here](https://github.com/SeunnnA/DataPrepVisual-Level-3/blob/91d8553528583f5db955b2aa75e19478e68c2585/project_code.py) to use as a reference and aid your visualization process.
+
+<img src="./OurRepublic.png" alt="example" width="800px" style="margin: 0 auto;"/>
+
+---
+
 ## Submission
 
 All code must be submitted as a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) following the PR template that will autogenerate when a PR is made
