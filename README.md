@@ -35,9 +35,8 @@ Summarize your findings in a concise pdf report:
 
 ### Example
 
-See an example project [Example]([https://our-republic.vercel.app/](https://github.com/SeunnnA/DataPrepVisual-Level-3)) with the source code [here](https://github.com/SeunnnA/DataPrepVisual-Level-3/blob/91d8553528583f5db955b2aa75e19478e68c2585/project_code.py) to use as a reference and aid your visualization process.
+See an example project [Example](https://github.com/SeunnnA/DataPrepVisual-Level-3.git) to use as a reference and aid your visualization process.
 
-<img src="./OurRepublic.png" alt="example" width="800px" style="margin: 0 auto;"/>
 
 ---
 
@@ -57,5 +56,4 @@ See something in the docs that is unclear or think that this level 3 could use a
 
 <!-- PUT GOLD BADGE OF SKILL HERE -->
 <!-- <div style="display: flex; align-items: center; justify-content: center;">
-<img src="https://pngimg.com/d/gold_medal_PNG28.png" width='200'/>
 </div> -->
